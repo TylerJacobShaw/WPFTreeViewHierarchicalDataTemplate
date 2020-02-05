@@ -1,0 +1,16 @@
+C:\Projects\ListViewProject\ListViewProject\obj\Debug\MainWindow.g.cs
+C:\Projects\ListViewProject\ListViewProject\obj\Debug\App.g.cs
+C:\Projects\ListViewProject\ListViewProject\obj\Debug\GeneratedInternalTypeHelper.g.cs
+C:\Projects\ListViewProject\ListViewProject\obj\Debug\ListViewProject_MarkupCompile.cache
+C:\Projects\ListViewProject\ListViewProject\obj\Debug\ListViewProject_MarkupCompile.lref
+C:\Projects\ListViewProject\ListViewProject\obj\Debug\ListViewProject.exe
+C:\Projects\ListViewProject\ListViewProject\obj\Debug\ListViewProject.pdb
+C:\Projects\ListViewProject\ListViewProject\obj\Debug\ListViewProject.csprojAssemblyReference.cache
+C:\Projects\ListViewProject\ListViewProject\bin\Debug\ListViewProject.exe.config
+C:\Projects\ListViewProject\ListViewProject\bin\Debug\ListViewProject.exe
+C:\Projects\ListViewProject\ListViewProject\bin\Debug\ListViewProject.pdb
+C:\Projects\ListViewProject\ListViewProject\obj\Debug\MainWindow.baml
+C:\Projects\ListViewProject\ListViewProject\obj\Debug\ListViewProject.g.resources
+C:\Projects\ListViewProject\ListViewProject\obj\Debug\ListViewProject.Properties.Resources.resources
+C:\Projects\ListViewProject\ListViewProject\obj\Debug\ListViewProject.csproj.GenerateResource.cache
+C:\Projects\ListViewProject\ListViewProject\obj\Debug\ListViewProject.csproj.CoreCompileInputs.cache
